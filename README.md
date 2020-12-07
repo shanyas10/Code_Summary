@@ -1,1 +1,1 @@
-# Automatic generation of documents for Object oriented code by identifying micropatterns
+# Automatic generation of documents for object oriented code by identifying micropatterns
